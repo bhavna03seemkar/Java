@@ -15,3 +15,19 @@ calculates its radius and area and prints it as output to the user.
 3. Make a program that prints the table of a number that is input 
 by the user. 
 (HINT - You will have to write 10 lines for this but as we proceed in the course you will be studying about ‘LOOPS’ that will simplify your work A LOT!)
+
+
+function
+returnType functionName(type arg1, type arg2...){
+    //operation
+}
+when we make function what happens in the memory
+stack ke form me save hoga
+
+arrays
+ek hi time me boht saara variable store karna h to
+array use karenge
+list ke form me hum boht saara number assign kar sakte happens
+syntax
+type[] arrayName new type[size];
+
